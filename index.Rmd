@@ -1,0 +1,32 @@
+---
+title: "Murphy Instructions"
+image: "dogs.jpg"
+output:
+  postcards::solana
+---
+
+## Food - Morning
+- 1 scoop dry food
+- Meds - Morning Pill Box Side (3/4 apoquel, 1 cosequin, 1 trazadone)
+- Drizzle about teaspoon to tablespoon of the tuna gel on the meds in his bowl and he’ll eat them
+
+## FOOD - Evening
+- 1 scoop dry food
+- We usually do 1/2 at 5pm and 1/2 at 7pm but it's ok to combine at 5pm. He might be a little whiny if you do combine but you can ignore him)
+- Meds - Evening Pill Box Side (1 trazadone)
+- Drizzle about a teaspoon of the tuna gel on the meds in his bowl and he’ll eat them
+
+## Walks
+- We try to do an AM and PM walk because he usually only poops on walks. 
+- They can be short walks (even just taking him a few houses down on the leash and back to poop)
+- He will often decide he wants to go home after he poops - this is fine
+
+## Daytime
+- We don’t keep Murphy in a crate at home, and he can be left out during the day when you’re not around. He appreciates being let out to go to the bathroom at least every 6-7 hours. 
+
+## Overnight
+We let him out to pee before we go to bed. He is (somewhat) trained to go when you say “go potty”. We don’t keep Murphy in a crate at night, he’s allowed to sleep anywhere downstairs. 
+
+## Notes
+He is very allergic to food with chicken. Please don’t give him Beacon’s food or treats. Even if it says “beef” or “peanut butter” there’s usually chicken by-product in most dog foods. We’ve provided a bag of treats.
+
